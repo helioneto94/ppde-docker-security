@@ -376,7 +376,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -387,7 +387,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: body-parser@1.20.0"
+                "text": "package-lock.json: body-parser@1.20.0"
               }
             }
           ]
@@ -403,7 +403,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -414,7 +414,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: cookie@0.5.0"
+                "text": "package-lock.json: cookie@0.5.0"
               }
             }
           ]
@@ -430,7 +430,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -441,7 +441,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: ejs@3.1.7"
+                "text": "package-lock.json: ejs@3.1.7"
               }
             }
           ]
@@ -457,7 +457,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -468,7 +468,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: express@4.18.1"
+                "text": "package-lock.json: express@4.18.1"
               }
             }
           ]
@@ -484,7 +484,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -495,7 +495,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: express@4.18.1"
+                "text": "package-lock.json: express@4.18.1"
               }
             }
           ]
@@ -511,7 +511,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -522,7 +522,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: path-to-regexp@0.1.7"
+                "text": "package-lock.json: path-to-regexp@0.1.7"
               }
             }
           ]
@@ -538,7 +538,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -549,7 +549,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: path-to-regexp@0.1.7"
+                "text": "package-lock.json: path-to-regexp@0.1.7"
               }
             }
           ]
@@ -565,7 +565,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -576,7 +576,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: send@0.18.0"
+                "text": "package-lock.json: send@0.18.0"
               }
             }
           ]
@@ -592,7 +592,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -603,7 +603,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: sequelize@6.19.0"
+                "text": "package-lock.json: sequelize@6.19.0"
               }
             }
           ]
@@ -619,7 +619,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -630,7 +630,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: sequelize@6.19.0"
+                "text": "package-lock.json: sequelize@6.19.0"
               }
             }
           ]
@@ -646,7 +646,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -657,7 +657,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: sequelize@6.19.0"
+                "text": "package-lock.json: sequelize@6.19.0"
               }
             }
           ]
@@ -673,7 +673,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -684,7 +684,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: sequelize@6.19.0"
+                "text": "package-lock.json: sequelize@6.19.0"
               }
             }
           ]
@@ -700,7 +700,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/package-lock.json",
+                  "uri": "package-lock.json",
                   "uriBaseId": "ROOTPATH"
                 },
                 "region": {
@@ -711,7 +711,7 @@
                 }
               },
               "message": {
-                "text": "src/package-lock.json: serve-static@1.15.0"
+                "text": "package-lock.json: serve-static@1.15.0"
               }
             }
           ]
@@ -720,7 +720,7 @@
       "columnKind": "utf16CodeUnits",
       "originalUriBaseIds": {
         "ROOTPATH": {
-          "uri": "file:///home/helioneto/aulas/programa-profissional-de-elite/ppde-docker-security/kube-news/"
+          "uri": "file:///home/helioneto/aulas/programa-profissional-de-elite/ppde-docker-security/kube-news/src/"
         }
       }
     }
